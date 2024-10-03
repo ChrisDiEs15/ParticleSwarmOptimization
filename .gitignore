@@ -1,0 +1,33 @@
+
+# Ignorar archivos y carpetas generados por NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nbm/
+ 
+# Archivos de configuración de NetBeans
+nbactions.xml
+nb-configuration.xml
+
+# Archivos generados por el sistema operativo
+*.swp
+*~
+# Ignorar archivos de respaldo
+*.bak
+*.backup
+*.tmp
+*.log
+
+# Ignorar archivos de compilación de Java
+*.class
+*.jar
+
+# Ignorar carpetas relacionadas con Maven/Gradle (si se usa)
+target/
+build/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
